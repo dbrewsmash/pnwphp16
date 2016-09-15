@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = /Users/darrenbrewster/Sites/funtest/pnwphp16/
+[branch "master"]
+	remote = https://github.com/dbrewsmash/pnwphp16.git
+	merge = refs/heads/master
